@@ -28,6 +28,6 @@ conflicting with the theme already bundled with Helix.
 
 This schemes are available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-[original-author]: github.com/metalelf0
-[neovim-themes]: github.com/metalelf0/black-metal-theme-neovim
-[vim-themes]: github.com/metalelf0/base16-black-metal-scheme
+[original-author]: https://github.com/metalelf0
+[neovim-themes]: https://github.com/metalelf0/black-metal-theme-neovim
+[vim-themes]: https://github.com/metalelf0/base16-black-metal-scheme
